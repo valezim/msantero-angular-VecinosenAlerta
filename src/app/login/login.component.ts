@@ -70,4 +70,6 @@ export class LoginComponent implements OnInit {
   //si existe el usuario:
   //<app-usuario-alerts [usuario]="usuario" (notify)="onNotify()">
   //</app-usuario-alerts>
+
+  // ESTO ES UN CAMBIO DESDE EL FORK
 }
